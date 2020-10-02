@@ -1,5 +1,13 @@
 # Berkeley_search
 
+Họ tên : Nguyễn Hoàng Việt
+
+MSSV : 18020063
+
+Lớp INT 3401 8
+
+autograder_result.txt chứa result của 1 lần autograder, không phải lúc quay film để báo cáo
+
 # Bài 1 đến bài 4: cài theo thuật toán được dạy trên lớp
 
 DFS dùng stack
